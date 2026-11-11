@@ -1,4 +1,4 @@
-name = "planetary-max"
+name = "planetary-max1"
 main = "src/index.ts"
 compatibility_date = "2026-11-07"
 
@@ -16,8 +16,8 @@ CIRCUIT_COOLDOWN_MS = "30000"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "planetary-max-dbplanetary-max-db"
-database_id = "8794f674-7402-4f4f-93af-7da6a5ea5a8f"
+database_name = "planetary-max-db"
+database_id = "32963938-8b9a-490d-a6e6-bffb03eb6eec"
 migrations_dir = "migrations"
 
 [[services]]
